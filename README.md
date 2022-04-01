@@ -7,8 +7,9 @@
 </div>
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Camy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Camy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Camy-pic" height="250" style="border-radius:100px;" src="https://avatars.githubusercontent.com/u/99758324?s=400&u=15002278ebc962a5ffc786e6a0f6a97ea977a9c0&v=4">
   
 </div>
   

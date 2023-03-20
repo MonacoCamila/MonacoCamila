@@ -23,6 +23,6 @@
   </div>
 
 - 🔭 Atualmente em transiçao de carreira ;) 
-- 🌱 Estudando Desenvolvimento Web FullStack na Digital House 
+- 🌱 Estudando Ciencias da Computacao pela Universidade Estacio
 - ⚡ Acompanhe aqui meus trabalhos e desenvolvimento!
 
